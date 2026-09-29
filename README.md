@@ -1,6 +1,6 @@
-# wikimaster
+# wikimasters
 
-Petit script Python pour ouvrir automatiquement les packs de Wiki-Masters.
+Petit script Python pour ouvrir automatiquement les packs de WikiMasters.
 
 Le script utilise une session Chrome déjà ouverte. Il ne contourne ni ne désactive la protection anti-bot du site.
 
